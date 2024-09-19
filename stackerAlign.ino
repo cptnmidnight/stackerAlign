@@ -10,7 +10,7 @@
 *	SDA		  SDA(ADC4) 3
 *	Mode	  Gnd       Gnd
 ***************************************************************************************/
-#include "xts1_arduino_i2c.hpp"
+#include "xts1_functions.hpp"
 
 int sens1M = 21; //i2c sensor 1
 int sens2M = 20; //i2c sensor 2
