@@ -14,7 +14,7 @@
 #pragma once
 #include <Wire.h>
 #include "sen0585.h"
-int nDevices = 1;
+int nDevices = 0;
 uint16_t timeout_count = 0;
 uint16_t readlimit = 0;
 uint16_t dist[2];
